@@ -1,4 +1,4 @@
-# FRCVision-pi-gen
+# FRCVision-pi-gen - an awesome project
 
 _Tool used to create the FRCVision Raspbian image_
 
